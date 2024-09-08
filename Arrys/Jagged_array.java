@@ -20,6 +20,7 @@ public class Jagged_array {
         System.out.print(m + " ");
       }
       System.out.println();
+
     }
   }
 }
