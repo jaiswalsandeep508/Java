@@ -21,7 +21,7 @@ class Static_variables {
     obj2.brand = "Samsung";
     obj2.price = 1100;
 
-    Mobile.name = "Smart phone";Z
+    Mobile.name = "Smart phone";
 
     obj1.print();
     obj2.print();
